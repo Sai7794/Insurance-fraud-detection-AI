@@ -1,0 +1,5 @@
+{
+  "name": "Insurance Fraud Detection AI",
+  "description": "A hackathon project for detecting insurance provider fraud risk using a weighted scoring algorithm.",
+  "requestFramePermissions": []
+}
